@@ -7,7 +7,6 @@ A simple web-based Todo List application where users can add tasks, capitalize s
 3. How to Use
 4. File Structure
 5. Dependencies
-6. License
 
 ## Description
 This Todo List application allows users to add tasks to a list, capitalize the first letter of each sentence, and remove tasks. The application is built using HTML, CSS, and JavaScript.
